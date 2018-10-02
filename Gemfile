@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jenkins_api_client', '~> 1.3.0'
+gem 'jenkins_api_client', '~> 1.5.0'
 
 # HAML views
 gem 'haml-rails'
