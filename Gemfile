@@ -7,7 +7,7 @@ gem 'haml-rails'
 
 group :development, :test do
   gem 'rspec', '~> 3.0.0'
-  gem 'rspec-rails', '~> 3.5'
+  gem 'rspec-rails', '~> 3.5', '>= 3.5.2'
 
   gem 'shoulda', '~> 3.5.0'
   gem 'shoulda-matchers', '~> 2.7.0'
